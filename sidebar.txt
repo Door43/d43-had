@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[had:home|Door43 (had)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-had|d43-had repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-had/archive/master.zip|d43-had.zip]]
+
+**Recent Changes**
+{{changes>ns = had}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/had|Ethnologue data]]
+
